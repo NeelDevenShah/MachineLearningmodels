@@ -10,3 +10,4 @@ airbnb amsterdam/archive/reviews_details.csv
 flight_price/archive/Data_Train.xlsx
 *.xlsx
 temp/credit card archive/creditcard.csv
+*.csv
